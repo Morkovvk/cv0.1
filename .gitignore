@@ -5,7 +5,7 @@ node_modules
 dist
 .cache
 .favicon.ico
-.icon.png
+
 .humans.txt
 .browserconfig.xml
 .404.html
